@@ -50,6 +50,8 @@ s.close()
 ```
 
 ## OUTPUT
+
+
 <img width="1898" height="1020" alt="image" src="https://github.com/user-attachments/assets/4a95b456-b6c1-40c3-8fab-0509c100e9ac" />
 
 ## RESULT
